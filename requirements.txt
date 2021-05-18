@@ -1,0 +1,2 @@
+pyTeleBotAPI
+requests
