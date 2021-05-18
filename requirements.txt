@@ -1,2 +1,5 @@
-pyTeleBotAPI
-requests
+
+requests==2.25.1
+telebot==0.0.4
+youtube-dl==2021.5.16
+pyTelegramBotAPI== 3.7.9
